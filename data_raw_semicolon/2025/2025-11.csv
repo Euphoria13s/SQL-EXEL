@@ -1,0 +1,3 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2508-00950;08/11/2025;Jeans Slim;Clothing;2;70.51;10%;Saint Petersburg;Volkova;B2B;113.82
+ORD-2501-01153;01/11/2025;Desk Chair;Office;3;90.33;0.05;Nizhny Novgorod;Petrova;B2C;205.74

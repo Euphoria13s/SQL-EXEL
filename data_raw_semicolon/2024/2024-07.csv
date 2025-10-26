@@ -1,0 +1,47 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2407-00020;03.07.2024;Paper A4;Office;2;59.89;0.0;Novosibirsk;;B2B;73.28
+ORD-2407-00165;07/29/2024;Keyboard Mech;Office;2;62.39;0.0;Novosibirsk;Petrova;B2C;102.04
+ORD-2407-00169;2024-07-31;Headphones Pro;Electronics;4;268.02;0.1;Novosibirsk;Volkova;B2B;829.16
+ORD-2405-00218;05/07/2024;Cap Sport;Clothing;7;112.59;0%;Yekaterinburg;Smirnova;B2C;648.62
+ORD-2407-00228;2024-07-11;Building Blocks;Toys;3;124.47;15%;Saint Petersburg;Petrova;B2C;258.54
+ORD-2407-00324;2024-07-27;Desk Chair;Office;4;28.97;0.2;Nizhny Novgorod;Petrova;B2B;71.44
+ORD-2407-00346;07/27/2024;Printer Jet;Office;7;56.72;0.15;Saint Petersburg;Orlov;B2C;278.39
+ORD-2407-00379;02.07.2024;Camera Zoom;Electronics;5;213.02;0.1;Novosibirsk;Orlov;B2C;743.25
+ORD-2411-00411;11/07/2024;Tablet Mini;Electronics;4;200.21;20%;Novosibirsk;Orlov;B2B;573.84
+ORD-2407-00429;07.07.2024;Laptop Air;Electronics;1;1008.7;0%;Yekaterinburg;Volkova;B2C;607.83
+ORD-2407-00463;2024-07-17;Blender Max;Home;1;103.92;0%;Kazan;Orlov;B2C;69.41
+ORD-2407-00466;17.07.2024;Lamp LED;Home;2;168.44;5%;Saint Petersburg;Sidorov;B2C;267.9
+ORD-2407-00471;2024-07-19;Laptop Air;Electronics;4;497.35;0.0;Novosibirsk;Petrova;B2B;1670.4
+ORD-2407-00474;26.07.2024;Bike Helmet;Outdoor;6;255.4;10%;Moscow;Sidorov;B2B;1047.6
+ORD-2407-00509;28.07.2024;Cap Sport;Clothing;4;108.05;5%;Novosibirsk;Volkova;B2B;333.76
+ORD-2407-00511;07.07.2024;Vacuum 3000;Home;5;157.9;0.0;Nizhny Novgorod;Volkova;B2C;593.25
+ORD-2407-00531;2024-07-13;Headphones Pro;Electonics;3;298.01;0.1;Nizhny Novgorod;Unknown;B2C;657.87
+ORD-2407-00538;27.07.2024;Vacuum 3000;Home;3;21.97;0%;Yekaterinburg;Kuznetsov;B2B;51.3
+ORD-2407-00540;2024-07-25;Board Game;Toys;1;19.28;5%;Saint Petersburg;Ivanov;B2C;11.82
+ORD-2407-00541;2024-07-13;Coffee Maker;Home;4;195.94;10%;Moscow;Ivanov;B2C;595.88
+ORD-2407-00554;2024-07-31;Paper A4;Office;4;160.67;0.05;Saint Petersburg;Sidorov;B2B;411.4
+ORD-2407-00582;18.07.2024;Vacuum 3000;Home;4;71.79;0%;Yekaterinburg;Ivanov;B2C;218.12
+ORD-2407-00583;2024-07-20;Keyboard Mech;Office;3;229.75;0.0;Novosibirsk;Unknown;B2B;573.51
+ORD-2407-00604;16.07.2024;Keyboard Mech;Office;5;240.65;0.0;Novosibirsk;Sidorov;B2C;772.25
+ORD-2407-00622;22.07.2024;Hiking Boots;Outdoor;6;132.16;0.0;Kazan;Volkova;B2B;570.72
+ORD-2407-00623;2024-07-19;Smartphone X;Electronics;4;848.58;0.05;Kazan;Volkova;B2B;2719.8
+ORD-2407-00652;2024-07-31;Puzzle 1000;Toys;1;14.32;0.05;Moscow;Petrova;B2C;11.07
+ORD-2407-00674;2024-07-30;Bike Helmet;Outdoor;2;471.94;0.0;Saint Petersburg;Smirnova;B2C;760.52
+ORD-2407-00700;2024-07-06;Building Blocks;Toys;5;9.65;0%;Novosibirsk;Unknown;B2B;37.45
+ORD-2407-00708;07/13/2024;Keyboard Mech;Office;6;291.94;0.1;Nizhny Novgorod;;B2B;1184.22
+ORD-2407-00831;07/14/2024;Lamp LED;Home;3;212.04;0.15;Moscow;Ivanov;B2C;524.31
+ORD-2407-00900;2024-07-29;RC Car;Toys;7;8.89;5%;Saint Petersburg;Orlov;B2C;48.44
+ORD-2407-00904;30.07.2024;RC Car;Toys;5;88.61;0.0;Saint Petersburg;;B2C;366.55
+ORD-2407-00912;2024-07-24;Sneakers Run;Clothing;6;185.55;10%;Saint Petersburg;Ivanov;B2C;943.14
+ORD-2407-00943;25.07.2024;Tablet Mini;Electronics;3;223.32;0%;Novosibirsk;Smirnova;B2C;437.7
+ORD-2407-00990;20.07.2024;Tent 2P;Outdoor;6;365.71;0%;Kazan;Kuznetsov;B2C;1862.64
+ORD-2407-01007;2024-07-12;Tablet Mini;Electronics;6;1124.71;0.05;Yekaterinburg;Orlov;B2C;5470.56
+ORD-2407-01018;2024-07-27;Smartphone X;Electronics;1;714.26;0.0;Saint Petersburg;Kuznetsov;B2C;534.81
+ORD-2407-01096;2024-07-19;Paper A4;Office;3;110.22;15%;Yekaterinburg;Unknown;B2C;248.88
+ORD-2407-01104;07/30/2024;Board Game;Toys;3;41.61;0.0;Nizhny Novgorod;Petrova;B2B;87.93
+ORD-2407-01108;2024-07-01;Bike Helmet;Outdoor;6;341.54;0.0;Yekaterinburg;Sidorov;B2C;1526.28
+ORD-2407-01171;24.07.2024;Coffee Maker;Home;1;109.2;0%;Nizhny Novgorod;Smirnova;B2C;83.9
+ORD-2407-01179;2024-07-03;Vacuum 3000;Home;5;77.52;10%;Saint Petersburg;;B2C;324.5
+ORD-2410-01180;10/07/2024;Vacuum 3000;Home;3;39.29;0%;Nizhny Novgorod;Ivanov;B2C;80.79
+ORD-2407-01194;04.07.2024;Bike Helmet;Outdoor;7;301.24;0%;Nizhny Novgorod;Kuznetsov;B2B;1533.98
+ORD-2407-01199;07/17/2024;Paper A4;Office;7;218.59;0.0;Novosibirsk;Volkova;B2B;1087.31

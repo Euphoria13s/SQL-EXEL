@@ -1,0 +1,32 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2304-00021;2023-04-06;Tablet Mini;Electronics;1;162.56;0.0;Saint Petersburg;Petrova;B2B;103.29
+ORD-2304-00074;2023-04-27;Blender Max;Home;1;143.68;0.0;Moscow;Petrova;B2C;90.4
+ORD-2304-00076;2023-04-06;Jeans Slim;Clothing;1;187.94;0.1;Kazan;Ivanov;B2C;123.32
+ORD-2304-00104;2023-04-02;Sneakers Run;Clothing;3;163.58;10%;Moscow;Orlov;B2C;336.66
+ORD-2304-00110;04/14/2023;Keyboard Mech;Office;4;70.36;0.0;Kazan;Sidorov;B2C;172.0
+ORD-2304-00168;2023-04-05;Tablet Mini;Electronics;4;484.76;10%;Yekaterinburg;Petrova;B2C;1190.0
+ORD-2304-00208;04/30/2023;Tablet Mini;Electronics;7;963.88;0.0;Nizhny Novgorod;Orlov;B2C;5192.67
+ORD-2304-00236;2023-04-10;Tablet Mini;Electronics;5;534.11;0%;Kazan;Kuznetsov;B2C;2036.7
+ORD-2301-00244;01/04/2023;Jeans Slim;Clothing;2;96.79;0.0;Nizhny Novgorod;Petrova;B2C;143.72
+ORD-2304-00252;2023-04-06;Sneakers Run;Clothing;5;148.42;0.1;Kazan;Orlov;B2C;626.7
+ORD-2304-00283;2023-04-14;Sneakers Run;Clothing;7;31.44;0.05;Nizhny Novgorod;Sidorov;B2C;155.19
+ORD-2304-00384;18.04.2023;Tablet Mini;Electronics;1;109.13;0.0;Novosibirsk;Kuznetsov;B2C;90.11
+ORD-2304-00537;2023-04-30;Monitor 24;Office;3;26.51;0.05;Yekaterinburg;Sidorov;B2C;51.78
+ORD-2304-00556;2023-04-09;Smartphone X;Electronics;3;754.15;0.1;Yekaterinburg;Unknown;B2C;1872.36
+ORD-2304-00562;04/04/2023;Tablet Mini;Electronics;3;532.56;0.15;Nizhny Novgorod;Volkova;B2B;1226.73
+ORD-2304-00629;2023-04-09;Paper A4;Office;5;28.32;0.0;Yekaterinburg;Sidorov;B2B;103.6
+ORD-2304-00696;04.04.2023;Tent 2P;Outdoor;7;86.42;0.0;Novosibirsk;Volkova;B2B;401.8
+ORD-2304-00706;11.04.2023;Board Game;Toys;4;74.24;5%;Nizhny Novgorod;Kuznetsov;B2C;226.12
+ORD-2304-00787;28.04.2023;Camera Zoom;Electronics;7;498.19;0.05;Kazan;Volkova;B2C;2710.54
+ORD-2304-00796;2023-04-02;Puzzle 1000;Toys;7;40.84;10%;Novosibirsk;Sidorov;B2C;212.73
+ORD-2304-00799;03.04.2023;Printer Jet;Office;5;109.66;0%;Nizhny Novgorod;Smirnova;B2C;378.4
+ORD-2304-00822;12.04.2023;Bike Helmet;Outdoor;3;124.95;0.0;Yekaterinburg;Unknown;B2B;288.51
+ORD-2304-00882;29.04.2023;Headphones Pro;Electronics;4;774.0;0.05;Yekaterinburg;Unknown;B2C;2228.68
+ORD-2304-00932;2023-04-01;Paper A4;Office;3;156.84;0.15;Yekaterinburg;Ivanov;B2B;328.23
+ORD-2304-00946;04/27/2023;Monitor 24;Office;2;249.62;0.1;Novosibirsk;Petrova;B2C;398.36
+ORD-2304-00971;2023-04-12;Camera Zoom;Electronics;1;1012.61;0.0;Nizhny Novgorod;Sidorov;B2C;658.21
+ORD-2304-01024;2023-04-07;Hiking Boots;Outdoor;4;63.54;0.0;Kazan;Petrova;B2C;196.12
+ORD-2304-01066;2023-04-02;Backpack 30L;Outdoor;5;331.03;0.0;Yekaterinburg;Orlov;B2C;1238.35
+ORD-2304-01070;2023-04-15;Tent 2P;Outdoor;6;277.54;0.0;Kazan;Sidorov;B2C;1112.34
+ORD-2304-01156;27.04.2023;Tent 2P;Outdoor;2;420.47;0.0;Nizhny Novgorod;Orlov;B2C;608.86
+ORD-2304-01178;2023-04-15;Bike Helmet;Outdoor;4;322.34;0.0;Saint Petersburg;Orlov;B2C;904.28

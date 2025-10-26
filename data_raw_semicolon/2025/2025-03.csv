@@ -1,0 +1,36 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2503-00051;2025-03-17;Laptop Air;Electronics;7;1071.16;0.05;Yekaterinburg;Kuznetsov;B2C;4836.58
+ORD-2503-00187;2025-03-14;Jacket Wind;Clothing;3;113.63;0.15;Saint Petersburg;Orlov;B2C;263.49
+ORD-2503-00191;2025-03-22;Jeans Slim;Clothing;2;28.54;0.05;Saint Petersburg;Unknown;B2B;44.52
+ORD-2503-00224;03/30/2025;Board Game;Toys;5;80.51;0.0;Nizhny Novgorod;Smirnova;B2C;298.65
+ORD-2503-00229;2025-03-14;Desk Chair;Office;5;277.77;0.0;Yekaterinburg;Ivanov;B2C;1129.5
+ORD-2503-00242;21.03.2025;Jeans Slim;Clothing;5;90.21;0.15;Yekaterinburg;Ivanov;B2C;365.85
+ORD-2503-00256;2025-03-14;Hiking Boots;Outdoor;3;505.84;0.1;Kazan;Smirnova;B2C;1038.3
+ORD-2503-00331;2025-03-29;Thermo Bottle;Outdoor;5;341.67;10%;Novosibirsk;Unknown;B2C;1084.5
+ORD-2503-00334;18.03.2025;Printer Jet;Office;6;86.33;0.05;Moscow;Unknown;B2C;394.2
+ORD-2503-00375;03/21/2025;Lamp LED;Home;4;135.57;0%;Nizhny Novgorod;Kuznetsov;B2C;372.16
+ORD-2503-00432;2025-03-19;Jeans Slim;Clothing;6;29.03;0.0;Moscow;Smirnova;B2C;130.32
+ORD-2503-00438;03/20/2025;Jacket Wind;Clothing;5;169.21;5%;Yekaterinburg;Unknown;B2C;691.3
+ORD-2503-00497;2025-03-31;Backpack 30L;Outdoor;1;503.33;0.0;Nizhny Novgorod;Unknown;B2C;357.17
+ORD-2503-00517;2025-03-12;Hiking Boots;Outdoor;6;408.12;0.2;Moscow;Ivanov;B2C;2077.26
+ORD-2503-00521;2025-03-17;Thermo Bottle;Outdoor;4;161.89;0%;Saint Petersburg;Volkova;B2C;475.76
+ORD-2503-00610;2025-03-24;Vacuum 3000;Home;7;44.95;0%;Yekaterinburg;Kuznetsov;B2C;191.38
+ORD-2503-00743;23.03.2025;Tent 2P;Outdoor;5;25.97;0.0;Nizhny Novgorod;;B2C;93.95
+ORD-2503-00745;25.03.2025;Paper A4;Office;3;221.76;0.05;Moscow;Orlov;B2C;440.97
+ORD-2503-00746;26.03.2025;Thermo Bottle;Outdoor;5;103.55;0.1;Saint Petersburg;Ivanov;B2C;421.3
+ORD-2503-00748;07.03.2025;Air Purifier;Home;1;150.02;0.1;Yekaterinburg;Kuznetsov;B2B;94.12
+ORD-2503-00765;2025-03-14;Board Game;Toys;1;38.85;0.1;Kazan;Petrova;B2B;27.48
+ORD-2503-00766;2025-03-11;Jacket Wind;Clothing;4;159.54;0%;Kazan;Unknown;B2B;505.0
+ORD-2503-00768;2025-03-15;Hiking Boots;Outdoor;3;335.9;0.05;Saint Petersburg;Smirnova;B2C;752.31
+ORD-2503-00780;2025-03-18;Keyboard Mech;Office;3;94.38;10%;Nizhny Novgorod;Ivanov;B2C;209.76
+ORD-2503-00812;2025-03-02;Jacket Wind;Clothing;1;62.67;0.2;Novosibirsk;Unknown;B2C;45.53
+ORD-2503-00836;03/23/2025;Printer Jet;Office;1;349.51;0.0;Saint Petersburg;Sidorov;B2C;213.78
+ORD-2503-00844;09.03.2025;Blender Max;Home;4;198.85;0.1;Moscow;;B2B;562.72
+ORD-2503-00869;28.03.2025;Blender Max;Home;6;33.68;0.05;Yekaterinburg;Sidorov;B2B;170.52
+ORD-2503-00898;30.03.2025;Monitor 24;Office;3;289.2;0%;Moscow;Volkova;B2B;597.09
+ORD-2503-00903;2025-03-09;Jacket Wind;Clothing;2;113.92;0%;Nizhny Novgorod;Volkova;B2C;176.16
+ORD-2503-00956;2025-03-17;Tablet Mini;Electronics;7;649.82;0.0;Nizhny Novgorod;Unknown;B2B;3754.17
+ORD-2503-00981;2025-03-26;Paper A4;Office;3;329.97;0.1;Nizhny Novgorod;Smirnova;B2B;762.48
+ORD-2503-01000;2025-03-05;Paper A4;Office;2;119.73;0.05;Moscow;;B2C;172.28
+ORD-2508-01142;08/03/2025;Camera Zoom;Electronics;7;525.59;0.0;Kazan;;B2C;2802.8
+ORD-2503-01181;2025-03-07;Thermo Bottle;Outdoor;3;398.83;0.2;Novosibirsk;Smirnova;B2B;986.73

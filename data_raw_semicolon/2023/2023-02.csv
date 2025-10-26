@@ -1,0 +1,24 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2302-00037;2023-02-12;Tent 2P;Outdoor;5;214.45;0.05;Moscow;Volkova;B2B;905.85
+ORD-2302-00123;2023-02-15;Air Purifier;Home;3;290.03;0.05;Nizhny Novgorod;;B2B;567.66
+ORD-2302-00188;08.02.2023;Building Blocks;Toys;4;73.47;0.0;Moscow;Orlov;B2C;237.44
+ORD-2305-00277;05/02/2023;Thermo Bottle;Outdoor;7;160.45;5%;Novosibirsk;Orlov;B2B;719.67
+ORD-2302-00357;2023-02-07;Blender Max;Home;3;55.8;0.0;Yekaterinburg;;B2B;123.87
+ORD-2302-00358;2023-02-22;Air Purifier;Home;7;144.43;10%;Novosibirsk;Ivanov;B2C;621.04
+ORD-2302-00387;24.02.2023;Thermo Bottle;Outdoor;1;163.3;0%;Nizhny Novgorod;Petrova;B2C;106.7
+ORD-2302-00478;2023-02-26;Smartphone X;Electonics;1;485.87;0.1;Saint Petersburg;Smirnova;B2C;339.61
+ORD-2302-00489;2023-02-24;Cap Sport;Clothing;5;43.2;0.0;Nizhny Novgorod;Sidorov;B2B;133.65
+ORD-2302-00500;28.02.2023;RC Car;Toys;5;34.59;0.05;Moscow;Kuznetsov;B2B;121.2
+ORD-2302-00601;2023-02-08;Bike Helmet;Outdoor;5;133.9;0.05;Novosibirsk;Sidorov;B2C;471.3
+ORD-2302-00605;2023-02-03;Cap Sport;Clothing;2;91.15;0.0;Kazan;Volkova;B2C;122.7
+ORD-2302-00643;2023-02-21;Coffee Maker;Home;2;91.5;0%;Yekaterinburg;;B2C;114.52
+ORD-2302-00681;2023-02-02;Doll Classic;Toys;7;15.01;15%;Yekaterinburg;Smirnova;B2C;81.06
+ORD-2302-00751;2023-02-04;Board Game;Toys;4;132.91;0.05;Saint Petersburg;Ivanov;B2C;329.04
+ORD-2302-00838;23.02.2023;Keyboard Mech;Office;7;223.23;0.0;Novosibirsk;Ivanov;B2C;970.62
+ORD-2302-00892;2023-02-07;Laptop Air;Electronics;1;295.22;0.0;Novosibirsk;Ivanov;B2C;217.5
+ORD-2302-00975;23.02.2023;Bike Helmet;Outdoor;4;45.65;0.1;Yekaterinburg;Ivanov;B2B;109.68
+ORD-2302-00998;2023-02-01;Monitor 24;Office;4;193.3;0.1;Yekaterinburg;Kuznetsov;B2C;561.36
+ORD-2302-01031;2023-02-07;Coffee Maker;Home;2;180.92;0.05;Yekaterinburg;Petrova;B2C;229.76
+ORD-2302-01068;2023-02-21;Vacuum 3000;Home;4;88.48;0.2;Moscow;;B2C;245.64
+ORD-2302-01071;2023-02-12;Desk Chair;Office;4;218.87;0.0;Yekaterinburg;Volkova;B2C;629.4
+ORD-2302-01119;2023-02-17;Printer Jet;Office;5;149.67;0.05;Novosibirsk;Ivanov;B2B;628.2

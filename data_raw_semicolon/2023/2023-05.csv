@@ -1,0 +1,32 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2305-00042;2023-05-28;T-Shirt Cotton;Clothing;1;15.66;0.1;Moscow;Orlov;B2C;12.0
+ORD-2305-00049;2023-05-08;Smartphone X;Electonics;4;283.69;0.2;Kazan;Ivanov;B2C;788.76
+ORD-2305-00053;13.05.2023;Hiking Boots;Outdoor;2;121.01;0%;Nizhny Novgorod;Kuznetsov;B2C;189.7
+ORD-2305-00094;2023-05-10;Backpack 30L;Outdoor;2;362.61;0.05;Nizhny Novgorod;Kuznetsov;B2C;541.32
+ORD-2305-00175;2023-05-18;Building Blocks;Toys;3;75.89;0.1;Moscow;;B2C;144.84
+ORD-2305-00181;17.05.2023;Headphones Pro;Electronics;4;307.17;5%;Moscow;Volkova;B2C;1016.2
+ORD-2305-00280;2023-05-19;Air Purifier;Home;6;43.64;0.05;Nizhny Novgorod;Kuznetsov;B2C;189.18
+ORD-2305-00337;05/24/2023;Headphones Pro;Electronics;6;1237.08;0%;Novosibirsk;Smirnova;B2B;6079.56
+ORD-2305-00366;14.05.2023;Jeans Slim;Clothng;1;81.37;10%;Saint Petersburg;Ivanov;B2C;68.41
+ORD-2304-00391;04/05/2023;Monitor 24;Office;2;299.2;0%;Nizhny Novgorod;;B2B;374.54
+ORD-2305-00394;10.05.2023;Blender Max;Home;5;211.45;0.05;Yekaterinburg;Kuznetsov;B2B;832.9
+ORD-2305-00416;31.05.2023;Hiking Boots;Outdoor;5;508.32;0.05;Moscow;Ivanov;B2C;2053.55
+ORD-2305-00417;05/17/2023;Laptop Air;Electronics;3;972.24;0%;Moscow;Sidorov;B2C;2071.41
+ORD-2305-00419;2023-05-07;Lamp LED;Home;5;132.17;0.1;Nizhny Novgorod;Petrova;B2C;515.85
+ORD-2305-00434;2023-05-30;Building Blocks;Toys;1;97.17;0.2;Nizhny Novgorod;Kuznetsov;B2C;81.42
+ORD-2305-00472;2023-05-21;Backpack 30L;Outdoor;5;247.03;0%;Novosibirsk;Petrova;B2C;1038.05
+ORD-2307-00557;07/05/2023;Lamp LED;Home;6;26.93;0.0;Moscow;Volkova;B2C;126.36
+ORD-2311-00565;11/05/2023;Jeans Slim;Clothing;1;189.87;0.05;Yekaterinburg;Volkova;B2B;123.24
+ORD-2305-00584;2023-05-19;Hiking Boots;Outdoor;3;70.64;0.0;Yekaterinburg;Sidorov;B2C;172.29
+ORD-2305-00615;2023-05-07;Jeans Slim;Clothing;7;182.3;0.05;Moscow;Ivanov;B2B;833.28
+ORD-2305-00618;2023-05-02;Headphones Pro;Electronics;3;976.13;0.0;Saint Petersburg;Ivanov;B2B;2412.27
+ORD-2305-00621;2023-05-02;Headphones Pro;Electonics;4;1431.74;0.05;Saint Petersburg;Unknown;B2C;4667.2
+ORD-2305-00697;2023-05-16;Tablet Mini;Electronics;7;859.38;0.1;Saint Petersburg;Smirnova;B2B;4901.61
+ORD-2305-00744;05/25/2023;Monitor 24;Office;4;304.3;0%;Kazan;Petrova;B2C;761.4
+ORD-2305-00864;2023-05-03;Camera Zoom;Electronics;7;555.97;0.0;Yekaterinburg;Petrova;B2C;3143.63
+ORD-2305-00883;21.05.2023;Headphones Pro;Electronics;4;471.89;0.0;Yekaterinburg;Unknown;B2C;1473.96
+ORD-2305-00997;2023-05-31;T-Shirt Cotton;Clothing;7;66.58;0.0;Nizhny Novgorod;Smirnova;B2B;387.24
+ORD-2305-01056;2023-05-25;Paper A4;Office;4;118.09;0.0;Moscow;Unknown;B2C;381.32
+ORD-2305-01065;2023-05-18;Tablet Mini;Electronics;6;314.81;0.2;Yekaterinburg;;B2C;1304.7
+ORD-2305-01126;2023-05-26;Puzzle 1000;Toys;6;31.19;0.0;Kazan;Smirnova;B2C;150.9
+ORD-2305-01163;14.05.2023;Building Blocks;Toys;2;77.78;0%;Saint Petersburg;Petrova;B2B;117.26

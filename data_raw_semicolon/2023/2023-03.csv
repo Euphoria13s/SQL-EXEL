@@ -1,0 +1,32 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2303-00001;03.03.2023;Headphones Pro;Electronics;5;340.99;0.15;Saint Petersburg;Unknown;B2C;1127.4
+ORD-2303-00025;03/19/2023;Building Blocks;Toys;2;23.42;0.15;Nizhny Novgorod;Kuznetsov;B2B;33.72
+ORD-2307-00090;07/03/2023;Sneakers Run;Clothing;1;25.0;0.15;Novosibirsk;Unknown;B2C;15.99
+ORD-2303-00128;10.03.2023;Tent 2P;Outdoor;3;130.59;0%;Moscow;Volkova;B2C;303.06
+ORD-2303-00144;18.03.2023;Tablet Mini;Electronics;1;937.09;0%;Moscow;Smirnova;B2B;726.3
+ORD-2303-00179;11.03.2023;Tablet Mini;Electronics;4;1003.82;0%;Nizhny Novgorod;Petrova;B2C;2952.24
+ORD-2303-00183;03/14/2023;Paper A4;Office;1;233.54;0.05;Kazan;Smirnova;B2C;176.11
+ORD-2303-00184;03/24/2023;Paper A4;Office;7;245.1;0%;Yekaterinburg;Orlov;B2C;1425.27
+ORD-2303-00235;2023-03-17;Sneakers Run;Clothing;6;61.09;10%;Saint Petersburg;Smirnova;B2B;285.42
+ORD-2303-00279;2023-03-27;Printer Jet;Office;2;121.33;0.0;Novosibirsk;Volkova;B2C;146.22
+ORD-2303-00354;2023-03-10;Hiking Boots;Outdoor;4;163.84;10%;Kazan;Sidorov;B2C;404.84
+ORD-2304-00369;04/03/2023;Jacket Wind;Clothng;2;99.11;5%;Novosibirsk;Petrova;B2C;143.12
+ORD-2303-00370;17.03.2023;T-Shirt Cotton;Clothing;2;74.02;15%;Kazan;Sidorov;B2C;96.8
+ORD-2303-00401;30.03.2023;RC Car;Toys;4;69.09;0.15;Moscow;Unknown;B2C;179.2
+ORD-2303-00402;2023-03-24;Hiking Boots;Outdoor;1;195.74;0.0;Kazan;Volkova;B2B;125.9
+ORD-2303-00451;2023-03-30;Jacket Wind;Clothng;4;14.67;0%;Nizhny Novgorod;Orlov;B2B;43.28
+ORD-2303-00619;02.03.2023;Desk Chair;Office;5;153.6;0%;Novosibirsk;Volkova;B2C;515.6
+ORD-2303-00628;2023-03-30;Board Game;Toys;1;32.27;0%;Nizhny Novgorod;Orlov;B2B;20.11
+ORD-2303-00660;2023-03-26;Printer Jet;Office;1;15.61;0.0;Nizhny Novgorod;;B2C;11.02
+ORD-2303-00763;2023-03-16;Laptop Air;Electronics;1;1028.1;0.05;Moscow;Volkova;B2C;784.39
+ORD-2303-00803;25.03.2023;Sneakers Run;Clothing;3;40.63;0%;Kazan;Sidorov;B2C;102.63
+ORD-2303-00845;2023-03-15;Cap Sport;Clothing;1;164.58;0%;Moscow;Sidorov;B2C;112.38
+ORD-2303-00873;03/30/2023;Monitor 24;Office;5;287.96;0.1;Novosibirsk;Petrova;B2C;948.85
+ORD-2303-00891;2023-03-21;Keyboard Mech;Office;1;98.52;0.05;Novosibirsk;Smirnova;B2C;71.59
+ORD-2303-00895;2023-03-31;Laptop Air;Electronics;4;741.02;5%;Saint Petersburg;Kuznetsov;B2C;2067.68
+ORD-2303-00945;20.03.2023;Printer Jet;Office;1;256.64;0.0;Saint Petersburg;Smirnova;B2C;154.71
+ORD-2303-01040;2023-03-30;Camera Zoom;Electronics;1;819.41;0.0;Kazan;Unknown;B2B;688.52
+ORD-2310-01111;10/03/2023;Air Purifier;Home;4;82.16;0.0;Saint Petersburg;Sidorov;B2C;236.88
+ORD-2303-01132;2023-03-28;Keyboard Mech;Office;3;287.51;0.0;Saint Petersburg;Orlov;B2B;645.48
+ORD-2303-01174;2023-03-04;Bike Helmet;Outdoor;4;422.06;0.1;Kazan;Sidorov;B2B;1383.88
+ORD-2303-01183;2023-03-17;Printer Jet;Office;7;138.01;0.2;Moscow;Orlov;B2C;636.86

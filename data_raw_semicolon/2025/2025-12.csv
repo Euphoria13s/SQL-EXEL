@@ -1,0 +1,4 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2507-00507;07/12/2025;Hiking Boots;Outdoor;6;321.36;0.0;Nizhny Novgorod;Orlov;B2C;1203.9
+ORD-2505-00805;05/12/2025;Hiking Boots;Outdoor;2;188.67;0.05;Novosibirsk;Petrova;B2C;265.92
+ORD-2508-01025;08/12/2025;Lamp LED;Home;7;106.77;10%;Yekaterinburg;Petrova;B2C;597.45

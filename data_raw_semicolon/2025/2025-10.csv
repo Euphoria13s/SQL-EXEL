@@ -1,0 +1,4 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2502-00010;02/10/2025;T-Shirt Cotton;Clothing;7;73.63;0.0;Novosibirsk;Kuznetsov;B2C;428.75
+ORD-2504-00404;04/10/2025;Printer Jet;Office;1;110.21;0%;Yekaterinburg;Ivanov;B2C;84.83
+ORD-2510-00663;2025-10-01;Doll Classic;Toys;4;37.71;0.05;Novosibirsk;Sidorov;B2B;112.16

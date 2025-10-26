@@ -1,0 +1,33 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2404-00004;2024-04-17;Desk Chair;Office;5;5.31;5%;Kazan;Kuznetsov;B2B;21.3
+ORD-2404-00070;2024-04-22;Coffee Maker;Home;4;128.78;0.1;Moscow;Sidorov;B2C;399.36
+ORD-2404-00085;10.04.2024;Blender Max;Home;3;48.32;0.05;Kazan;;B2C;106.77
+ORD-2404-00092;2024-04-17;Laptop Air;Electronics;4;271.52;0.0;Saint Petersburg;Sidorov;B2C;825.32
+ORD-2404-00095;2024-04-06;Vacuum 3000;Home;6;192.14;0%;Saint Petersburg;Smirnova;B2C;974.22
+ORD-2404-00132;2024-04-18;Sneakers Run;Clothing;6;97.67;5%;Nizhny Novgorod;Petrova;B2B;374.88
+ORD-2404-00146;2024-04-14;RC Car;Toys;6;87.26;0.0;Moscow;Ivanov;B2C;384.36
+ORD-2404-00153;2024-04-24;RC Car;Toys;3;92.48;10%;Yekaterinburg;Ivanov;B2C;234.21
+ORD-2404-00172;2024-04-13;T-Shirt Cotton;Clothing;4;135.78;0.0;Nizhny Novgorod;Kuznetsov;B2C;359.12
+ORD-2404-00207;2024-04-12;Blender Max;Home;5;158.91;0%;Nizhny Novgorod;Kuznetsov;B2B;653.5
+ORD-2404-00220;2024-04-15;Monitor 24;Office;6;224.29;5%;Moscow;Sidorov;B2C;826.92
+ORD-2404-00281;2024-04-11;Blender Max;Home;2;41.14;0.1;Novosibirsk;Unknown;B2C;54.62
+ORD-2404-00308;17.04.2024;Keyboard Mech;Office;3;320.38;0.1;Saint Petersburg;Kuznetsov;B2C;695.04
+ORD-2404-00342;2024-04-06;Smartphone X;Electronics;5;1154.48;5%;Saint Petersburg;Kuznetsov;B2C;3951.95
+ORD-2404-00409;23.04.2024;Monitor 24;Office;6;387.99;0.2;Kazan;Smirnova;B2C;1573.14
+ORD-2404-00546;19.04.2024;Printer Jet;Office;7;197.63;0.0;Nizhny Novgorod;Unknown;B2C;878.5
+ORD-2404-00559;2024-04-11;Jacket Wind;Clothing;7;104.9;0.0;Saint Petersburg;Kuznetsov;B2C;623.63
+ORD-2404-00585;2024-04-22;RC Car;Toys;3;90.61;0.2;Novosibirsk;;B2C;190.86
+ORD-2404-00599;2024-04-22;Cap Sport;Clothing;5;89.32;20%;Yekaterinburg;;B2C;275.45
+ORD-2412-00635;12/04/2024;Coffee Maker;Home;5;66.5;10%;Novosibirsk;Ivanov;B2C;262.6
+ORD-2404-00703;2024-04-05;Printer Jet;Office;3;324.81;15%;Nizhny Novgorod;Smirnova;B2B;776.46
+ORD-2404-00712;07.04.2024;Printer Jet;Office;7;168.65;5%;Yekaterinburg;Sidorov;B2C;934.85
+ORD-2404-00731;2024-04-09;Coffee Maker;Home;5;33.29;0.0;Novosibirsk;Petrova;B2B;124.35
+ORD-2404-00856;2024-04-17;Vacuum 3000;Home;2;248.02;0.0;Moscow;Ivanov;B2C;401.34
+ORD-2404-00863;25.04.2024;Printer Jet;Office;7;130.8;0.1;Nizhny Novgorod;Kuznetsov;B2C;582.4
+ORD-2404-00958;04/19/2024;Backpack 30L;Outdoor;3;284.05;0.1;Novosibirsk;Sidorov;B2C;594.18
+ORD-2404-00967;2024-04-13;Jeans Slim;Clothing;4;11.07;5%;Yekaterinburg;Unknown;B2C;32.04
+ORD-2404-00969;2024-04-07;Air Purifier;Home;5;37.81;0.05;Kazan;Ivanov;B2C;141.75
+ORD-2402-01028;02/04/2024;Blender Max;Home;1;178.43;0%;Novosibirsk;Petrova;B2B;138.55
+ORD-2404-01076;2024-04-28;Puzzle 1000;Toys;1;106.15;0.0;Saint Petersburg;Sidorov;B2C;74.92
+ORD-2407-01124;07/04/2024;Coffee Maker;Home;6;151.32;0.1;Nizhny Novgorod;Volkova;B2C;668.46
+ORD-2404-01147;06.04.2024;Jacket Wind;Clothing;7;32.62;0%;Moscow;Sidorov;B2C;143.01

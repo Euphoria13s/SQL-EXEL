@@ -1,0 +1,26 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2405-00114;2024-05-05;Coffee Maker;Home;5;257.6;0.0;Nizhny Novgorod;Sidorov;B2C;865.5
+ORD-2405-00311;31.05.2024;Doll Classic;Toys;6;72.94;0%;Saint Petersburg;;B2B;285.36
+ORD-2405-00322;2024-05-22;Air Purifier;Home;4;229.27;0.0;Novosibirsk;Orlov;B2B;673.92
+ORD-2405-00327;20.05.2024;Vacuum 3000;Home;3;246.23;15%;Nizhny Novgorod;;B2B;557.82
+ORD-2405-00413;2024-05-31;Bike Helmet;Outdoor;5;424.86;0.05;Yekaterinburg;Ivanov;B2C;1542.0
+ORD-2405-00418;2024-05-02;RC Car;Toys;7;44.4;0.15;Novosibirsk;Smirnova;B2C;192.85
+ORD-2405-00467;05/05/2024;Monitor 24;Office;2;214.31;0.1;Moscow;;B2B;350.16
+ORD-2405-00468;2024-05-11;Tent 2P;Outdoor;3;461.03;0.05;Moscow;Kuznetsov;B2B;1124.1
+ORD-2405-00536;2024-05-26;Puzzle 1000;Toys;2;40.42;0.0;Yekaterinburg;Orlov;B2C;49.44
+ORD-2405-00563;2024-05-20;Monitor 24;Office;1;245.82;0%;Nizhny Novgorod;Ivanov;B2C;201.77
+ORD-2411-00570;11/05/2024;Jacket Wind;Clothing;4;176.14;0.05;Saint Petersburg;Petrova;B2C;593.8
+ORD-2405-00611;20.05.2024;Monitor 24;Office;7;23.28;0.0;Moscow;Kuznetsov;B2C;113.12
+ORD-2405-00614;2024-05-12;Jacket Wind;Clothing;7;31.42;0.0;Yekaterinburg;Smirnova;B2C;182.77
+ORD-2405-00735;2024-05-04;Sneakers Run;Clothing;6;44.84;0%;Moscow;Petrova;B2C;198.54
+ORD-2405-00747;2024-05-04;T-Shirt Cotton;Clothing;6;76.93;0.0;Kazan;Ivanov;B2C;336.54
+ORD-2405-00779;2024-05-24;Hiking Boots;Outdoor;7;75.87;0.1;Kazan;Volkova;B2C;440.37
+ORD-2405-00781;2024-05-16;Keyboard Mech;Office;1;254.68;0%;Saint Petersburg;Unknown;B2C;154.65
+ORD-2405-00782;2024-05-13;Hiking Boots;Outdoor;5;465.92;0%;Moscow;Sidorov;B2B;1746.35
+ORD-2405-00827;2024-05-03;Board Game;Toys;5;25.95;0.0;Moscow;Smirnova;B2C;92.55
+ORD-2405-00925;2024-05-04;Headphones Pro;Electronics;1;214.94;10%;Kazan;Orlov;B2B;174.91
+ORD-2405-00979;2024-05-21;Keyboard Mech;Office;5;96.98;0.2;Saint Petersburg;Volkova;B2C;388.15
+ORD-2405-01005;2024-05-02;Keyboard Mech;Office;1;152.17;5%;Yekaterinburg;Ivanov;B2B;118.75
+ORD-2405-01072;2024-05-10;Tablet Mini;Electronics;2;963.79;0.0;Kazan;Sidorov;B2C;1416.38
+ORD-2405-01130;05/29/2024;Camera Zoom;Electronics;1;655.71;0.0;Novosibirsk;Unknown;B2C;435.04
+ORD-2405-01198;2024-05-30;Air Purifier;Home;2;41.61;0.05;Kazan;Unknown;B2C;50.72

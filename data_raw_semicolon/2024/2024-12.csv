@@ -1,0 +1,55 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2412-00018;2024-12-04;T-Shirt Cotton;Clothing;3;76.94;0%;Kazan;Ivanov;B2C;147.93
+ORD-2412-00024;28.12.2024;Monitor 24;Office;7;61.19;0.0;Saint Petersburg;Volkova;B2C;336.21
+ORD-2412-00065;2024-12-09;Paper A4;Office;7;182.99;0.2;Yekaterinburg;Volkova;B2C;1057.7
+ORD-2412-00111;17.12.2024;Tablet Mini;Electronics;5;598.85;0.1;Kazan;Ivanov;B2C;1827.7
+ORD-2412-00122;2024-12-10;Camera Zoom;Electronics;1;790.7;0.0;Yekaterinburg;Orlov;B2C;581.6
+ORD-2412-00134;2024-12-27;Hiking Boots;Outdoor;2;170.27;0.15;Novosibirsk;Smirnova;B2B;276.58
+ORD-2412-00170;09.12.2024;Air Purifier;Home;1;253.39;0.05;Kazan;Kuznetsov;B2C;194.3
+ORD-2412-00171;2024-12-27;T-Shirt Cotton;Clothing;2;103.81;0.0;Moscow;Kuznetsov;B2C;137.38
+ORD-2412-00173;2024-12-17;Tent 2P;Outdoor;7;469.67;0.15;Saint Petersburg;Unknown;B2C;2770.88
+ORD-2412-00185;2024-12-10;Printer Jet;Office;2;185.96;0.1;Saint Petersburg;;B2C;314.14
+ORD-2412-00225;2024-12-23;Desk Chair;Office;7;409.22;0.0;Yekaterinburg;Ivanov;B2C;2060.66
+ORD-2412-00250;14.12.2024;Monitor 24;Office;5;261.62;0.0;Yekaterinburg;Petrova;B2B;1078.4
+ORD-2412-00260;2024-12-22;Laptop Air;Electronics;3;373.17;0.1;Nizhny Novgorod;Volkova;B2C;886.44
+ORD-2412-00282;05.12.2024;Headphones Pro;Electronics;3;379.24;20%;Novosibirsk;Petrova;B2C;790.11
+ORD-2412-00301;29.12.2024;Monitor 24;Office;3;128.75;0.1;Saint Petersburg;Sidorov;B2C;273.87
+ORD-2412-00307;25.12.2024;Bike Helmet;Outdoor;6;303.47;0.0;Yekaterinburg;Petrova;B2C;1312.2
+ORD-2412-00339;12/31/2024;Air Purifier;Home;4;99.89;0.05;Nizhny Novgorod;Kuznetsov;B2B;284.2
+ORD-2412-00378;2024-12-09;T-Shirt Cotton;Clothing;6;179.26;0.15;Nizhny Novgorod;Sidorov;B2B;904.98
+ORD-2412-00408;05.12.2024;Puzzle 1000;Toys;3;84.68;0%;Kazan;Petrova;B2C;179.25
+ORD-2412-00420;2024-12-25;Lamp LED;Home;4;128.55;0.05;Moscow;Petrova;B2B;329.88
+ORD-2412-00448;23.12.2024;T-Shirt Cotton;Clothing;7;91.36;0.2;Moscow;Petrova;B2B;400.75
+ORD-2412-00459;18.12.2024;Board Game;Toys;3;93.83;0%;Kazan;Volkova;B2C;200.22
+ORD-2412-00460;04.12.2024;Blender Max;Home;6;243.38;0.05;Saint Petersburg;Smirnova;B2C;1055.52
+ORD-2412-00477;2024-12-05;Jacket Wind;Clothing;7;50.57;0%;Yekaterinburg;Smirnova;B2C;249.62
+ORD-2412-00479;08.12.2024;Monitor 24;Office;1;207.87;0.1;Yekaterinburg;Smirnova;B2C;132.98
+ORD-2412-00486;12/25/2024;Jacket Wind;Clothing;2;102.92;10%;Novosibirsk;Kuznetsov;B2C;137.44
+ORD-2412-00508;2024-12-16;Cap Sport;Clothing;6;131.18;0.05;Novosibirsk;Smirnova;B2C;503.28
+ORD-2412-00600;2024-12-03;Vacuum 3000;Home;2;193.95;15%;Nizhny Novgorod;Sidorov;B2C;250.68
+ORD-2412-00634;28.12.2024;Air Purifier;Home;5;42.34;0.15;Novosibirsk;Ivanov;B2C;168.15
+ORD-2412-00641;01.12.2024;Building Blocks;Toys;2;7.54;0.1;Novosibirsk;Smirnova;B2B;10.72
+ORD-2412-00685;31.12.2024;Desk Chair;Office;6;50.3;0%;Moscow;Smirnova;B2C;247.68
+ORD-2412-00753;2024-12-01;Headphones Pro;Electronics;2;598.94;10%;Saint Petersburg;Kuznetsov;B2C;960.08
+ORD-2412-00767;04.12.2024;Monitor 24;Office;7;63.82;0.05;Yekaterinburg;Kuznetsov;B2C;318.01
+ORD-2412-00789;2024-12-09;Backpack 30L;Outdoor;5;181.6;0%;Moscow;Kuznetsov;B2C;699.0
+ORD-2412-00807;2024-12-27;Jeans Slim;Clothing;6;62.6;5%;Kazan;Kuznetsov;B2C;283.74
+ORD-2412-00813;2024-12-23;Jeans Slim;Clothing;3;53.56;0.0;Moscow;Unknown;B2C;98.79
+ORD-2412-00823;06.12.2024;Laptop Air;Electronics;7;350.8;0.0;Nizhny Novgorod;Volkova;B2C;1700.16
+ORD-2412-00834;23.12.2024;Puzzle 1000;Toys;3;120.24;0.0;Novosibirsk;Kuznetsov;B2C;242.34
+ORD-2412-00889;2024-12-19;Camera Zoom;Electronics;1;204.89;0.0;Novosibirsk;;B2B;153.22
+ORD-2412-00905;2024-12-16;Building Blocks;Toys;1;29.03;0.0;Kazan;;B2B;22.04
+ORD-2412-00906;2024-12-18;Keyboard Mech;Office;7;294.04;10%;Novosibirsk;Volkova;B2B;1252.3
+ORD-2412-00909;2024-12-19;Blender Max;Home;5;199.49;5%;Yekaterinburg;Ivanov;B2B;758.45
+ORD-2410-00938;10/12/2024;Desk Chair;Office;1;192.41;0.15;Nizhny Novgorod;Sidorov;B2C;135.45
+ORD-2412-00978;2024-12-07;Bike Helmet;Outdoor;2;265.41;0.0;Novosibirsk;Ivanov;B2B;431.76
+ORD-2412-01002;2024-12-26;Backpack 30L;Outdoor;2;123.08;0%;Nizhny Novgorod;Ivanov;B2C;199.54
+ORD-2412-01013;12/18/2024;Coffee Maker;Home;5;221.47;0.1;Novosibirsk;Petrova;B2C;782.75
+ORD-2412-01032;2024-12-01;Board Game;Toys;5;48.19;0.0;Kazan;Smirnova;B2C;190.0
+ORD-2412-01055;2024-12-09;Air Purifier;Home;5;114.7;0.05;Saint Petersburg;Kuznetsov;B2C;463.5
+ORD-2412-01084;2024-12-08;Laptop Air;Electronics;7;450.37;0.05;Saint Petersburg;;B2C;2589.09
+ORD-2412-01131;2024-12-16;Smartphone X;Electronics;4;454.62;0.2;Nizhny Novgorod;Kuznetsov;B2C;1438.68
+ORD-2412-01145;12.12.2024;Monitor 24;Office;1;258.8;0.15;Yekaterinburg;Kuznetsov;B2C;177.33
+ORD-2412-01154;2024-12-24;Backpack 30L;Outdoor;4;305.87;0.0;Novosibirsk;Kuznetsov;B2C;1012.68
+ORD-2412-01185;2024-12-27;Vacuum 3000;Home;5;78.94;0.05;Nizhny Novgorod;Sidorov;B2C;311.1
+ORD-2412-01187;2024-12-13;Building Blocks;Toys;5;6.4;0.1;Moscow;Smirnova;B2C;19.7

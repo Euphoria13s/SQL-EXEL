@@ -1,0 +1,29 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2401-00041;2024-01-22;RC Car;Toys;3;52.06;0.05;Kazan;Kuznetsov;B2C;117.21
+ORD-2401-00055;2024-01-17;Paper A4;Office;4;99.47;0.1;Moscow;Smirnova;B2C;277.04
+ORD-2401-00056;2024-01-09;Thermo Bottle;Outdoor;5;270.26;0%;Yekaterinburg;Ivanov;B2B;1010.55
+ORD-2401-00102;16.01.2024;Doll Classic;Toys;1;132.89;0.0;Kazan;Ivanov;B2C;86.16
+ORD-2401-00112;20.01.2024;Printer Jet;Office;6;216.6;10%;Kazan;;B2B;783.48
+ORD-2401-00182;2024-01-28;Building Blocks;Toys;5;83.22;0.1;Yekaterinburg;Orlov;B2C;311.2
+ORD-2411-00202;11/01/2024;Smartphone X;Electronics;3;1322.95;0%;Saint Petersburg;Petrova;B2C;2867.04
+ORD-2401-00296;2024-01-26;Building Blocks;Toys;1;86.06;0.1;Yekaterinburg;Volkova;B2C;65.41
+ORD-2401-00300;2024-01-07;Desk Chair;Office;3;231.37;0.1;Yekaterinburg;Unknown;B2C;479.01
+ORD-2401-00326;2024-01-04;Bike Helmet;Outdoor;7;15.32;0.05;Nizhny Novgorod;Petrova;B2C;78.75
+ORD-2401-00368;01/26/2024;Smartphone X;Electronics;2;160.25;10%;Kazan;Volkova;B2B;269.98
+ORD-2401-00475;2024-01-29;Keyboard Mech;Office;4;199.51;0%;Novosibirsk;Smirnova;B2B;575.12
+ORD-2401-00481;08.01.2024;Air Purifier;Home;7;164.91;0.15;Nizhny Novgorod;Smirnova;B2C;734.37
+ORD-2401-00574;2024-01-29;Keyboard Mech;Office;7;189.29;10%;Novosibirsk;Unknown;B2C;1029.98
+ORD-2401-00597;01/19/2024;Sneakers Run;Clothing;6;162.78;0.05;Yekaterinburg;Ivanov;B2C;758.1
+ORD-2402-00691;02/01/2024;Coffee Maker;Home;7;273.09;0.0;Novosibirsk;Petrova;B2C;1166.62
+ORD-2401-00698;2024-01-03;T-Shirt Cotton;Clothing;3;165.13;0%;Kazan;;B2C;417.69
+ORD-2401-00722;2024-01-02;Air Purifier;Home;5;222.39;10%;Nizhny Novgorod;Smirnova;B2C;920.2
+ORD-2401-00727;2024-01-17;Building Blocks;Toys;4;129.76;0.0;Nizhny Novgorod;Kuznetsov;B2C;421.72
+ORD-2401-00770;01/01/2024;Camera Zoom;Electronics;3;833.17;0.05;Kazan;Volkova;B2B;1672.53
+ORD-2401-00825;2024-01-25;Air Purifier;Home;7;162.66;0.0;Moscow;Volkova;B2C;825.3
+ORD-2401-00870;04.01.2024;Smartphone X;Electronics;4;721.18;10%;Saint Petersburg;Kuznetsov;B2C;1961.92
+ORD-2401-00877;01/15/2024;Sneakers Run;Clothing;4;218.45;0.0;Moscow;Sidorov;B2C;701.8
+ORD-2401-00957;21.01.2024;Keyboard Mech;Office;4;342.89;0.05;Kazan;Kuznetsov;B2C;840.16
+ORD-2401-01090;2024-01-29;Headphones Pro;Electronics;5;1030.08;0.0;Kazan;Unknown;B2B;4137.0
+ORD-2401-01149;2024-01-22;Puzzle 1000;Toys;6;32.12;0.05;Kazan;Volkova;B2C;160.56
+ORD-2401-01175;2024-01-05;Blender Max;Home;6;57.22;0.1;Nizhny Novgorod;;B2B;225.12
+ORD-2401-01192;2024-01-20;Paper A4;Office;1;76.29;0%;Yekaterinburg;Sidorov;B2B;49.29

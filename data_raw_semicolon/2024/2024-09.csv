@@ -1,0 +1,36 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2409-00052;2024-09-08;Headphones Pro;Electronics;1;1042.65;0.0;Kazan;Orlov;B2C;879.78
+ORD-2404-00058;04/09/2024;Jeans Slim;Clothing;7;181.85;0.05;Saint Petersburg;Unknown;B2C;1048.46
+ORD-2409-00105;14.09.2024;Tent 2P;Outdoor;1;102.54;20%;Nizhny Novgorod;Unknown;B2C;68.01
+ORD-2409-00107;2024-09-19;Jeans Slim;Clothing;3;45.2;0.05;Novosibirsk;Orlov;B2C;114.6
+ORD-2409-00227;2024-09-09;Blender Max;Home;4;114.06;5%;Novosibirsk;Volkova;B2C;306.0
+ORD-2409-00289;2024-09-28;Monitor 24;Office;3;220.65;0.15;Saint Petersburg;Orlov;B2C;450.78
+ORD-2401-00309;01/09/2024;Headphones Pro;Electronics;5;604.42;0.05;Kazan;Smirnova;B2B;2047.4
+ORD-2409-00336;20.09.2024;Monitor 24;Office;4;81.74;0.0;Saint Petersburg;Orlov;B2C;205.12
+ORD-2409-00340;09/15/2024;Coffee Maker;Home;4;29.74;0.0;Moscow;Sidorov;B2C;101.0
+ORD-2409-00348;2024-09-18;Jacket Wind;Clothing;1;141.03;0.0;Yekaterinburg;Kuznetsov;B2C;115.75
+ORD-2409-00441;05.09.2024;Monitor 24;Office;4;272.11;0.1;Saint Petersburg;Volkova;B2C;811.2
+ORD-2409-00455;11.09.2024;Cap Sport;Clothing;6;204.67;0.0;Yekaterinburg;Volkova;B2B;1006.62
+ORD-2409-00484;09/25/2024;Printer Jet;Office;2;360.51;0.0;Moscow;Orlov;B2B;607.5
+ORD-2409-00558;2024-09-05;Air Purifier;Home;4;218.72;10%;Yekaterinburg;Orlov;B2C;717.32
+ORD-2409-00575;2024-09-26;Lamp LED;Home;5;112.25;0%;Novosibirsk;Ivanov;B2C;393.5
+ORD-2409-00579;2024-09-08;Doll Classic;Toys;7;87.74;0.0;Kazan;Petrova;B2C;486.64
+ORD-2409-00657;2024-09-26;Bike Helmet;Outdoor;1;341.76;0.1;Saint Petersburg;Volkova;B2C;223.57
+ORD-2409-00715;2024-09-09;Backpack 30L;Outdoor;5;359.04;0.0;Novosibirsk;Petrova;B2C;1288.4
+ORD-2409-00726;2024-09-15;Laptop Air;Electronics;2;552.61;0.0;Moscow;Ivanov;B2B;666.8
+ORD-2409-00783;01.09.2024;Sneakers Run;Clothing;1;84.28;0.0;Kazan;Sidorov;B2C;56.35
+ORD-2409-00829;09/19/2024;Backpack 30L;Outdoor;6;462.03;0.05;Saint Petersburg;;B2B;2013.12
+ORD-2409-00833;14.09.2024;Vacuum 3000;Home;3;216.47;0.0;Moscow;;B2C;510.0
+ORD-2409-00918;2024-09-03;Headphones Pro;Electonics;1;1206.6;0%;Novosibirsk;Petrova;B2B;997.14
+ORD-2409-00927;2024-09-22;Doll Classic;Toys;2;27.77;0.0;Moscow;Unknown;B2B;44.6
+ORD-2409-00955;2024-09-08;Monitor 24;Office;3;162.11;0.15;Moscow;Ivanov;B2C;324.69
+ORD-2409-00961;2024-09-02;Lamp LED;Home;3;139.26;0%;Nizhny Novgorod;Ivanov;B2C;290.19
+ORD-2409-00994;2024-09-23;Building Blocks;Toys;1;11.65;0.1;Kazan;Volkova;B2C;8.66
+ORD-2409-01009;2024-09-03;Lamp LED;Home;2;277.42;0.0;Saint Petersburg;Volkova;B2C;441.84
+ORD-2409-01048;13.09.2024;Hiking Boots;Outdoor;3;388.7;0%;Yekaterinburg;Petrova;B2C;940.71
+ORD-2409-01053;09/24/2024;Lamp LED;Home;5;36.73;5%;Moscow;Kuznetsov;B2C;126.9
+ORD-2409-01091;2024-09-27;Hiking Boots;Outdoor;2;100.91;0%;Yekaterinburg;Smirnova;B2C;133.0
+ORD-2409-01128;2024-09-15;T-Shirt Cotton;Clothing;7;70.35;0.05;Saint Petersburg;Sidorov;B2C;307.51
+ORD-2409-01133;2024-09-25;Cap Sport;Clothing;2;107.31;0.05;Saint Petersburg;;B2B;156.38
+ORD-2409-01158;20.09.2024;Tent 2P;Outdoor;4;420.78;0.0;Kazan;Unknown;B2C;1383.96
+ORD-2409-01168;2024-09-05;Puzzle 1000;Toys;4;63.77;0.15;Saint Petersburg;Orlov;B2B;193.24

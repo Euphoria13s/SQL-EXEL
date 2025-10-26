@@ -1,0 +1,33 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2501-00006;2025-01-09;Printer Jet;Office;7;105.33;0.0;Yekaterinburg;Volkova;B2C;589.61
+ORD-2501-00066;01/21/2025;Jeans Slim;Clothing;4;101.88;0.1;Yekaterinburg;Volkova;B2B;263.68
+ORD-2501-00088;2025-01-26;Building Blocks;Toys;4;97.7;0.1;Novosibirsk;Volkova;B2C;299.04
+ORD-2501-00117;05.01.2025;Coffee Maker;Home;7;161.85;0.0;Yekaterinburg;Petrova;B2C;753.06
+ORD-2501-00120;2025-01-17;Cap Sport;Clothing;1;110.22;0.0;Moscow;Smirnova;B2C;79.22
+ORD-2501-00124;2025-01-21;Desk Chair;Office;3;53.5;0.0;Kazan;Ivanov;B2C;134.31
+ORD-2501-00135;2025-01-31;Air Purifier;Home;7;84.07;0.0;Novosibirsk;Smirnova;B2B;474.67
+ORD-2501-00147;23.01.2025;Jacket Wind;Clothing;5;106.62;10%;Saint Petersburg;Orlov;B2C;451.2
+ORD-2501-00214;2025-01-02;T-Shirt Cotton;Clothing;2;53.4;0.0;Saint Petersburg;Smirnova;B2B;90.76
+ORD-2501-00248;2025-01-06;Blender Max;Home;1;25.96;0.1;Novosibirsk;Ivanov;B2B;19.89
+ORD-2501-00261;2025-01-14;Blender Max;Home;6;153.94;0.15;Kazan;Orlov;B2C;780.78
+ORD-2501-00292;2025-01-13;Doll Classic;Toys;4;145.61;0.0;Novosibirsk;Petrova;B2C;418.8
+ORD-2501-00298;13.01.2025;Lamp LED;Home;4;110.14;0.0;Yekaterinburg;Volkova;B2C;272.96
+ORD-2501-00344;2025-01-16;Monitor 24;Office;1;110.14;0.15;Novosibirsk;Volkova;B2B;77.41
+ORD-2501-00542;2025-01-20;Coffee Maker;Home;1;211.17;0.05;Yekaterinburg;;B2C;177.38
+ORD-2501-00564;2025-01-31;Vacuum 3000;Home;5;66.63;0%;Moscow;Sidorov;B2C;270.25
+ORD-2501-00654;2025-01-28;Desk Chair;Office;5;182.03;0.0;Kazan;Ivanov;B2C;664.4
+ORD-2501-00716;2025-01-19;Printer Jet;Office;4;73.16;0.0;Novosibirsk;Unknown;B2C;243.68
+ORD-2501-00734;27.01.2025;Monitor 24;Office;3;347.13;0%;Kazan;Sidorov;B2C;861.3
+ORD-2501-00736;2025-01-25;Backpack 30L;Outdoor;3;48.71;0.05;Moscow;Unknown;B2C;111.39
+ORD-2501-00750;2025-01-14;Desk Chair;Office;2;219.82;0.0;Kazan;;B2C;335.52
+ORD-2501-00843;2025-01-29;Jacket Wind;Clothing;5;47.03;0.0;Novosibirsk;Smirnova;B2C;151.3
+ORD-2501-00922;14.01.2025;Thermo Bottle;Outdoor;5;362.65;0.0;Novosibirsk;Volkova;B2C;1327.85
+ORD-2501-00949;31.01.2025;Sneakers Run;Clothing;5;159.62;0.0;Novosibirsk;Kuznetsov;B2C;676.75
+ORD-2501-00987;2025-01-02;Doll Classic;Toys;5;78.76;0.0;Moscow;;B2C;246.9
+ORD-2501-01001;17.01.2025;Doll Classic;Toys;1;24.06;0.0;Saint Petersburg;Unknown;B2C;17.97
+ORD-2501-01044;2025-01-07;Jeans Slim;Clothing;7;68.27;0%;Kazan;Kuznetsov;B2C;393.54
+ORD-2501-01052;20.01.2025;T-Shirt Cotton;Clothing;1;130.41;0.05;Yekaterinburg;Sidorov;B2C;110.11
+ORD-2501-01062;2025-01-03;T-Shirt Cotton;Clothing;7;87.48;0.0;Nizhny Novgorod;Sidorov;B2B;494.34
+ORD-2501-01137;2025-01-31;T-Shirt Cotton;Clothing;4;46.46;0.1;Yekaterinburg;Smirnova;B2C;124.16
+ORD-2501-01162;16.01.2025;Smartphone X;Electronics;2;510.16;0.05;Kazan;Kuznetsov;B2C;620.32
+ORD-2501-01165;2025-01-08;Jeans Slim;Clothing;6;114.85;0.0;Moscow;Volkova;B2B;438.12

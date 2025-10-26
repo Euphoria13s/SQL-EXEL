@@ -1,0 +1,46 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2309-00026;09/06/2023;Paper A4;Office;3;245.87;0.05;Novosibirsk;Ivanov;B2B;537.27
+ORD-2306-00050;2023-06-13;Board Game;Toys;3;47.98;0%;Novosibirsk;Volkova;B2C;108.81
+ORD-2306-00086;16.06.2023;Air Purifier;Home;2;51.05;5%;Novosibirsk;Smirnova;B2C;65.98
+ORD-2306-00096;24.06.2023;Jacket Wind;Clothing;7;33.48;0.05;Moscow;Ivanov;B2B;156.38
+ORD-2306-00108;06.06.2023;Printer Jet;Office;6;34.26;0%;Moscow;Kuznetsov;B2C;134.64
+ORD-2306-00121;2023-06-30;Cap Sport;Clothing;1;71.78;0%;Kazan;Unknown;B2C;45.67
+ORD-2306-00127;2023-06-03;Smartphone X;Electronics;1;863.04;0.1;Saint Petersburg;Unknown;B2C;634.61
+ORD-2306-00131;2023-06-18;Backpack 30L;Outdoor;3;122.47;0.0;Yekaterinburg;Smirnova;B2C;250.86
+ORD-2306-00145;2023-06-01;Laptop Air;Electronics;3;727.39;0.2;Nizhny Novgorod;Sidorov;B2C;1441.77
+ORD-2306-00164;2023-06-28;Puzzle 1000;Toys;5;123.83;0.0;Moscow;Kuznetsov;B2B;429.65
+ORD-2306-00215;2023-06-27;Air Purifier;Home;3;166.17;0.0;Novosibirsk;Orlov;B2C;415.32
+ORD-2306-00240;09.06.2023;Thermo Bottle;Outdoor;1;164.73;0.0;Yekaterinburg;Ivanov;B2C;111.0
+ORD-2306-00310;2023-06-29;Camera Zoom;Electronics;2;789.72;0%;Saint Petersburg;;B2B;1011.74
+ORD-2311-00316;11/06/2023;Hiking Boots;Outdoor;7;379.63;0.05;Kazan;Volkova;B2C;1826.58
+ORD-2306-00323;2023-06-13;Jeans Slim;Clothing;4;146.06;0%;Kazan;Volkova;B2C;456.08
+ORD-2306-00356;2023-06-24;Smartphone X;Electronics;6;1120.9;0.1;Novosibirsk;Volkova;B2B;5333.4
+ORD-2304-00393;04/06/2023;RC Car;Toys;7;19.95;0.0;Nizhny Novgorod;Orlov;B2C;97.72
+ORD-2306-00443;14.06.2023;Jeans Slim;Clothing;3;116.86;0.0;Yekaterinburg;Unknown;B2C;241.68
+ORD-2306-00492;17.06.2023;Keyboard Mech;Office;7;160.35;0.0;Kazan;Kuznetsov;B2C;944.3
+ORD-2306-00495;2023-06-29;Hiking Boots;Outdoor;3;245.72;0.1;Kazan;;B2C;473.37
+ORD-2306-00516;08.06.2023;Vacuum 3000;Home;4;55.7;0.05;Novosibirsk;Ivanov;B2C;181.04
+ORD-2306-00535;2023-06-28;Jeans Slim;Clothng;1;165.87;0.05;Novosibirsk;Smirnova;B2C;124.04
+ORD-2306-00548;2023-06-13;Thermo Bottle;Outdoor;1;117.19;0.1;Saint Petersburg;Kuznetsov;B2B;94.61
+ORD-2306-00550;30.06.2023;Coffee Maker;Home;3;75.95;10%;Novosibirsk;Sidorov;B2B;176.31
+ORD-2306-00572;2023-06-22;RC Car;Toys;7;74.86;0%;Novosibirsk;Volkova;B2B;378.98
+ORD-2306-00576;2023-06-02;Vacuum 3000;Home;1;89.11;0.15;Moscow;Unknown;B2B;56.77
+ORD-2306-00602;03.06.2023;Lamp LED;Home;5;274.48;0%;Nizhny Novgorod;Orlov;B2C;1013.9
+ORD-2302-00627;02/06/2023;Jacket Wind;Clothing;5;28.93;0.0;Novosibirsk;Volkova;B2B;107.15
+ORD-2306-00659;15.06.2023;Laptop Air;Electonics;1;430.4;0.1;Nizhny Novgorod;Volkova;B2C;300.48
+ORD-2306-00693;2023-06-02;Monitor 24;Office;4;243.8;0.05;Moscow;;B2B;763.48
+ORD-2306-00719;2023-06-07;Monitor 24;Office;6;202.04;0%;Nizhny Novgorod;;B2C;935.1
+ORD-2306-00756;2023-06-27;Tent 2P;Outdoor;1;79.29;0.0;Saint Petersburg;Petrova;B2C;47.76
+ORD-2306-00773;2023-06-01;Printer Jet;Office;5;114.75;0.05;Novosibirsk;Sidorov;B2C;476.4
+ORD-2306-00837;06/16/2023;Jeans Slim;Clothing;3;182.2;0.0;Novosibirsk;Smirnova;B2C;374.73
+ORD-2306-00841;2023-06-24;Laptop Air;Electronics;7;324.76;0.0;Novosibirsk;;B2C;1915.76
+ORD-2306-00902;27.06.2023;Doll Classic;Toys;3;110.81;0%;Nizhny Novgorod;Petrova;B2C;216.51
+ORD-2306-00911;2023-06-29;Backpack 30L;Outdoor;5;44.71;0.0;Yekaterinburg;Petrova;B2C;159.0
+ORD-2306-00976;2023-06-06;T-Shirt Cotton;Clothing;1;114.97;0%;Moscow;Orlov;B2C;79.32
+ORD-2306-00985;18.06.2023;Bike Helmet;Outdoor;6;334.72;0.0;Moscow;Ivanov;B2C;1636.74
+ORD-2306-01088;2023-06-23;T-Shirt Cotton;Clothing;2;75.61;10%;Saint Petersburg;;B2C;114.6
+ORD-2306-01144;2023-06-17;Headphones Pro;Electronics;4;762.51;0.0;Kazan;Unknown;B2C;2526.84
+ORD-2306-01157;23.06.2023;Blender Max;Home;5;175.5;0.0;Yekaterinburg;Kuznetsov;B2B;603.65
+ORD-2306-01167;06/18/2023;Headphones Pro;Electronics;2;1479.58;0.2;Kazan;Ivanov;B2C;2343.12
+ORD-2306-01188;03.06.2023;Backpack 30L;Outdoor;3;439.02;0.0;Novosibirsk;Orlov;B2C;872.4
+ORD-2306-01196;28.06.2023;Cap Sport;Clothing;3;26.04;0.0;Novosibirsk;Ivanov;B2C;64.77

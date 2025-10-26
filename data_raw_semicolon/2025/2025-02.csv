@@ -1,0 +1,31 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2502-00012;2025-02-07;Doll Classic;Toys;7;63.63;10%;Nizhny Novgorod;;B2C;302.19
+ORD-2502-00047;02/22/2025;Backpack 30L;Outdoor;4;17.06;5%;Moscow;Smirnova;B2C;48.56
+ORD-2502-00073;09.02.2025;Headphones Pro;Electronics;4;802.17;0.0;Kazan;Smirnova;B2B;2016.04
+ORD-2502-00101;26.02.2025;Printer Jet;Office;7;275.77;0.05;Saint Petersburg;;B2C;1413.02
+ORD-2502-00118;09.02.2025;Smartphone X;Electronics;6;633.91;5%;Yekaterinburg;Kuznetsov;B2C;2940.36
+ORD-2502-00245;2025-02-27;T-Shirt Cotton;Clothing;6;152.86;0.15;Saint Petersburg;Sidorov;B2C;616.02
+ORD-2504-00271;04/02/2025;Board Game;Toys;7;83.62;0.0;Nizhny Novgorod;Smirnova;B2C;488.6
+ORD-2502-00273;25.02.2025;Tablet Mini;Electonics;6;743.26;0%;Nizhny Novgorod;Sidorov;B2C;3182.04
+ORD-2502-00276;2025-02-08;Vacuum 3000;Home;7;102.57;0.05;Saint Petersburg;Volkova;B2C;465.85
+ORD-2502-00351;2025-02-11;Keyboard Mech;Office;5;158.28;0.1;Saint Petersburg;Orlov;B2B;592.1
+ORD-2502-00396;2025-02-23;Thermo Bottle;Outdoor;1;376.04;0.05;Kazan;Sidorov;B2B;248.43
+ORD-2502-00435;12.02.2025;Printer Jet;Office;3;225.18;5%;Yekaterinburg;Sidorov;B2C;474.09
+ORD-2502-00449;2025-02-27;Camera Zoom;Electronics;2;1007.5;20%;Yekaterinburg;Orlov;B2C;1365.5
+ORD-2502-00502;05.02.2025;Coffee Maker;Home;4;36.83;0.0;Yekaterinburg;Smirnova;B2B;91.84
+ORD-2502-00512;2025-02-14;Board Game;Toys;6;41.01;10%;Saint Petersburg;Kuznetsov;B2C;202.32
+ORD-2502-00603;26.02.2025;Air Purifier;Home;6;163.45;0%;Nizhny Novgorod;Orlov;B2C;656.76
+ORD-2502-00632;2025-02-06;Paper A4;Office;5;303.57;0.0;Nizhny Novgorod;Petrova;B2C;1164.85
+ORD-2502-00676;2025-02-09;Desk Chair;Office;4;299.18;0.0;Nizhny Novgorod;Orlov;B2C;914.76
+ORD-2508-00692;08/02/2025;Monitor 24;Office;4;45.0;0.05;Novosibirsk;Unknown;B2C;119.72
+ORD-2502-00774;03.02.2025;Jacket Wind;Clothng;6;184.89;15%;Kazan;Ivanov;B2C;906.96
+ORD-2502-00798;02/15/2025;Puzzle 1000;Toys;6;41.97;0.0;Nizhny Novgorod;Sidorov;B2C;175.62
+ORD-2502-00851;2025-02-10;Tent 2P;Outdoor;1;359.89;0%;Saint Petersburg;Sidorov;B2C;225.65
+ORD-2502-00853;2025-02-08;Monitor 24;Office;4;302.69;0.0;Novosibirsk;Volkova;B2B;783.8
+ORD-2502-00894;02/24/2025;Jacket Wind;Clothing;2;14.06;0.0;Nizhny Novgorod;Kuznetsov;B2C;20.36
+ORD-2502-00910;2025-02-26;Tent 2P;Outdoor;4;289.28;0.0;Nizhny Novgorod;Ivanov;B2B;775.04
+ORD-2502-00962;2025-02-17;Building Blocks;Toys;1;65.79;0.0;Yekaterinburg;Volkova;B2B;40.74
+ORD-2502-00973;02.02.2025;Desk Chair;Office;2;275.6;0.15;Nizhny Novgorod;Smirnova;B2C;400.2
+ORD-2502-01112;2025-02-24;Monitor 24;Office;6;138.31;15%;Novosibirsk;Kuznetsov;B2C;697.62
+ORD-2502-01138;2025-02-20;Cap Sport;Clothing;5;130.45;0.0;Yekaterinburg;Smirnova;B2C;529.0
+ORD-2502-01191;02/26/2025;Board Game;Toys;2;86.63;0.05;Nizhny Novgorod;Smirnova;B2C;113.42

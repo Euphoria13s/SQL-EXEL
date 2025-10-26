@@ -1,0 +1,32 @@
+﻿OrderID;Date;Product;Category;Quantity;UnitPrice;Discount;City;Manager;Segment;Cost
+ORD-2309-00002;09/09/2023;Keyboard Mech;Office;6;94.5;0.0;Saint Petersburg;;B2C;443.4
+ORD-2309-00008;2023-09-07;RC Car;Toys;4;80.33;0.05;Moscow;Petrova;B2C;248.08
+ORD-2312-00039;12/09/2023;Laptop Air;Electronics;7;253.05;5%;Kazan;Volkova;B2B;1242.5
+ORD-2309-00046;09/13/2023;Air Purifier;Home;3;123.6;0.1;Yekaterinburg;Kuznetsov;B2C;275.22
+ORD-2309-00125;2023-09-06;Cap Sport;Clothing;5;132.17;0.0;Nizhny Novgorod;Ivanov;B2C;495.85
+ORD-2309-00126;07.09.2023;Cap Sport;Clothing;4;113.52;0.0;Yekaterinburg;Petrova;B2C;320.2
+ORD-2309-00234;11.09.2023;Desk Chair;Office;6;143.74;0%;Novosibirsk;;B2B;524.34
+ORD-2309-00284;2023-09-06;Sneakers Run;Clothing;4;113.51;0.0;Moscow;Sidorov;B2B;303.36
+ORD-2309-00295;2023-09-10;Lamp LED;Home;1;188.48;0%;Kazan;Kuznetsov;B2C;142.02
+ORD-2309-00343;2023-09-13;Bike Helmet;Outdoor;2;453.82;0.0;Novosibirsk;Sidorov;B2B;573.04
+ORD-2309-00465;2023-09-02;Doll Classic;Toys;1;122.21;0.0;Saint Petersburg;Orlov;B2B;87.25
+ORD-2309-00493;2023-09-20;Sneakers Run;Clothing;7;163.06;0%;Nizhny Novgorod;Ivanov;B2C;853.3
+ORD-2309-00515;2023-09-13;Printer Jet;Office;7;50.59;0.05;Nizhny Novgorod;;B2C;263.27
+ORD-2309-00519;09/25/2023;Blender Max;Home;5;237.42;0%;Novosibirsk;;B2C;815.1
+ORD-2309-00520;2023-09-19;Hiking Boots;Outdoor;7;154.47;0.05;Yekaterinburg;Volkova;B2C;903.28
+ORD-2309-00552;2023-09-18;Hiking Boots;Outdoor;7;243.73;0.0;Novosibirsk;;B2C;1166.76
+ORD-2309-00571;2023-09-14;Backpack 30L;Outdoor;3;203.29;5%;Kazan;;B2C;515.67
+ORD-2309-00636;2023-09-08;Laptop Air;Electronics;4;180.12;0.1;Yekaterinburg;Volkova;B2C;609.2
+ORD-2309-00651;2023-09-05;Camera Zoom;Electronics;2;939.24;0.05;Saint Petersburg;;B2C;1543.46
+ORD-2309-00740;2023-09-22;Blender Max;Home;2;240.83;0.0;Nizhny Novgorod;Ivanov;B2C;346.62
+ORD-2309-00772;2023-09-05;Building Blocks;Toys;3;87.88;0.0;Saint Petersburg;Smirnova;B2C;190.11
+ORD-2309-00806;09/30/2023;Bike Helmet;Outdoor;3;67.17;0.05;Moscow;Unknown;B2C;145.95
+ORD-2309-00835;09/19/2023;Puzzle 1000;Toys;3;103.86;0.0;Kazan;Orlov;B2C;228.54
+ORD-2309-00874;2023-09-17;Backpack 30L;Outdoor;5;338.73;0.15;Saint Petersburg;;B2C;1359.7
+ORD-2304-00933;04/09/2023;Puzzle 1000;Toys;3;7.55;0.05;Novosibirsk;Sidorov;B2B;18.39
+ORD-2309-00937;2023-09-19;Tablet Mini;Electronics;4;1206.76;0.0;Saint Petersburg;Orlov;B2C;3902.72
+ORD-2309-00948;2023-09-13;Lamp LED;Home;2;124.85;0.0;Kazan;;B2B;178.32
+ORD-2309-00972;2023-09-30;Blender Max;Home;7;61.81;0.0;Novosibirsk;Smirnova;B2C;349.79
+ORD-2309-01027;2023-09-11;Blender Max;Home;7;41.89;0.0;Nizhny Novgorod;Unknown;B2C;247.1
+ORD-2309-01030;09/13/2023;Cap Sport;Clothing;1;92.69;0.05;Saint Petersburg;Kuznetsov;B2C;61.98
+ORD-2309-01083;04.09.2023;Board Game;Toys;3;52.97;0%;Yekaterinburg;Ivanov;B2C;97.59
